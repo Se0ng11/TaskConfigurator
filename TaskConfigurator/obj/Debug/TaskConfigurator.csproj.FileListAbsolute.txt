@@ -1,0 +1,14 @@
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\bin\Debug\TaskConfigurator.exe.config
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\bin\Debug\TaskConfigurator.exe
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\bin\Debug\TaskConfigurator.pdb
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.csprojResolveAssemblyReference.cache
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.Form1.resources
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.Properties.Resources.resources
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.csproj.GenerateResource.Cache
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.exe
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.pdb
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\bin\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\bin\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.frmProgressBar.resources
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.frmLog.resources
+C:\Users\608905523\desktop\XML Tools\TaskConfigurator\TaskConfigurator\obj\Debug\TaskConfigurator.frmSearch.resources
